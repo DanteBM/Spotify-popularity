@@ -15,7 +15,7 @@ Repositorio para proyecto final de Aprendizaje Máquina sobre predicción de pop
 # Replicar proyecto
 Para replicar el proyecto se recomienda utilizar **conda**.
 
-1. clonar este repositorio
+1. Clonar este repositorio
 > `git clone https://github.com/DanteBM/Spotify-popularity.git`
 2. Dentro del repositorio, replicar el entorno `spotify-popularity` con ayuda del archivo `enviroment.yml`
 > `conda env create -f enviroment.yml`
