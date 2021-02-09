@@ -18,6 +18,6 @@ Para replicar el proyecto se recomienda utilizar **conda**.
 1. clonar este repositorio
 > `git clone https://github.com/DanteBM/Spotify-popularity.git`
 2. Dentro del repositorio, replicar el entorno `spotify-popularity` con ayuda del archivo `enviroment.yml`
-> `conda env create -f enviroment.yml
+> `conda env create -f enviroment.yml`
 3. Activar entorno creado
-> `conda activate spotify-popularity
+> `conda activate spotify-popularity`
