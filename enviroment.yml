@@ -1,0 +1,10 @@
+name: spotify-popularity
+channels:
+  - defaults
+dependencies:
+  - scikit-learn
+  - jupyter
+  - seaborn
+  - plotly
+  - lightgbm
+prefix: /home/dante/miniconda3/envs/spotify-popularity
