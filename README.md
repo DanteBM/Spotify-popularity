@@ -11,7 +11,7 @@ Repositorio para proyecto final de Aprendizaje Máquina sobre predicción de pop
 * Archivo para replicar entorno de conda `enviroment.yml`
 * csvs en carpeta `spotify`
 * notebooks en `notebooks`
-  * El notebook importante se llama `spotify.ipynb
+  * El notebook importante se llama `spotify.ipynb`
 
 # Replicar proyecto
 Para replicar el proyecto se recomienda utilizar **conda**.
