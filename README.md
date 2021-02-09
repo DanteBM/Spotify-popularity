@@ -11,7 +11,7 @@ Repositorio para proyecto final de Aprendizaje Máquina sobre predicción de pop
 * `Popularidad_Spotify.pdf`: presentación usada el día de la exposición
 * `FinalML_AlvaradoBermudezGarcia.pdf`: **reporte** final del proyecto 
 * `enviroment.yml`: archivo para replicar entorno de conda
-* `spotify/\*.csv`: datos del proyecto
+* `spotify/*.csv`: datos del proyecto
 * `notebooks/Anteproyecto_spotify.ipynb`: notebook usado para el anteproyecto (primera exploración)
 * `notebooks/spotify.ipynb`: **notebook** principal del proyecto
 
