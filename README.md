@@ -11,6 +11,7 @@ Repositorio para proyecto final de Aprendizaje Máquina sobre predicción de pop
 * Archivo para replicar entorno de conda `enviroment.yml`
 * csvs en carpeta `spotify`
 * notebooks en `notebooks`
+  * El notebook importante se llama `spotify.ipynb
 
 # Replicar proyecto
 Para replicar el proyecto se recomienda utilizar **conda**.
@@ -21,3 +22,5 @@ Para replicar el proyecto se recomienda utilizar **conda**.
 > `conda env create -f enviroment.yml`
 3. Activar entorno creado
 > `conda activate spotify-popularity`
+
+Y listo, ya se puede usar jupyter notebook con los paquetes necesarios para replicar el proyecto.
